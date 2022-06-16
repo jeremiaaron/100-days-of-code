@@ -21,3 +21,14 @@ Years of calculus and linear algebra are now proving to be useful, can't wait fo
 
 **Learning Platform**:
 Coursera: Machine Learning course by Stanford University
+
+### Day 3: June 16, 2022
+
+**Today's Progress**:
+Learned new regression method of normal equation, its advantages and disadvantages compared to gradient descent, and how to overcome its noninvertibility problem.
+
+**Thoughts**:
+The comparison between gradient descent and normal equation is pretty interesting.
+
+**Learning Platform**:
+Coursera: Machine Learning course by Stanford University
