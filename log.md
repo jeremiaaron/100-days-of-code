@@ -43,3 +43,14 @@ Matrices are very tricky, and putting equation involving matrices into the code 
 
 **Learning Platform**:
 Coursera: Machine Learning course by Stanford University
+
+### Day 5: June 18, 2022
+
+**Today's Progress**:
+Implemented cost function, gradient descent, feature scaling, and normal equation for multi-variable linear regression (finished the course assignment). Learned the fundamentals of classification using logistic regression and decision boundary.
+
+**Thoughts**:
+Getting the hang of using matrices, but feature scaling part was really tricky. Still learning about the basics of classification, can't wait to learn more.
+
+**Learning Platform**:
+Coursera: Machine Learning course by Stanford University
