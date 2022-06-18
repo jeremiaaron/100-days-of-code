@@ -32,3 +32,14 @@ The comparison between gradient descent and normal equation is pretty interestin
 
 **Learning Platform**:
 Coursera: Machine Learning course by Stanford University
+
+### Day 4: June 17, 2022
+
+**Today's Progress**:
+Implemented cost function & gradient descent in Python (using the assignment from Machine Learning course by Andrew Ng, converted to Python). Hours of trying to apply the equation to the code, and turns out vectorization helps a lot.
+
+**Thoughts**:
+Matrices are very tricky, and putting equation involving matrices into the code can be challenging to understand.
+
+**Learning Platform**:
+Coursera: Machine Learning course by Stanford University
