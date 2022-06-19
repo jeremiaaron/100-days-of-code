@@ -54,3 +54,14 @@ Getting the hang of using matrices, but feature scaling part was really tricky. 
 
 **Learning Platform**:
 Coursera: Machine Learning course by Stanford University
+
+### Day 6: June 19, 2022
+
+**Today's Progress**:
+Advancing on logistic regression: learned the cost function, gradient descent, more advanced optimizations, namely conjugate gradient, BFGS, and L-BFGS (but not discussed in detail, would take weeks), and multiclass classification.
+
+**Thoughts**:
+Interesting to see the differences between logistic regression model and linear regression model.
+
+**Learning Platform**:
+Coursera: Machine Learning course by Stanford University
