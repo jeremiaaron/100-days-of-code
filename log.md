@@ -65,3 +65,14 @@ Interesting to see the differences between logistic regression model and linear 
 
 **Learning Platform**:
 Coursera: Machine Learning course by Stanford University
+
+### Day 7: June 20, 2022
+
+**Today's Progress**:
+Finished the assignment on implementing sigmoid function, logistic regression cost & regression (also using regularization) in Python. Learned the concepts of neural networks along with vectorization and also some applications of neural networks.
+
+**Thoughts**:
+Neural network has a mind-blowing concept, imitating the work of neurons to handle complex functions. Can't wait to dive deeper into the applications of neural networks.
+
+**Learning Platform**:
+Coursera: Machine Learning course by Stanford University
