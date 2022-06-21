@@ -76,3 +76,14 @@ Neural network has a mind-blowing concept, imitating the work of neurons to hand
 
 **Learning Platform**:
 Coursera: Machine Learning course by Stanford University
+
+### Day 8: June 21, 2022
+
+**Today's Progress**:
+Had to skip neural networks today to finish writing 3 articles (in Indonesian) on Medium (my profile: https://bit.ly/3n6OjbQ) about SQL, Google Data Studio, and Python for the Data Science Bootcamp provided by MySkill (https://bit.ly/3yaCzvo).
+
+**Thoughts**:
+Writing 3 articles is a LOT. However, explaining things to other people is always very helpful in improving my understanding of the materials.
+
+**Learning Platform**:
+Coursera: Data Science Bootcamp by MySkill and Medium
